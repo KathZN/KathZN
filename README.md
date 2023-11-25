@@ -7,7 +7,7 @@ Junior technical writer & Obsidian fan ✨
 ## I’m currently learning 
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Docusaurus-hsl">
 
-Looking for open source projects to contribute on their documentation
+Looking for open source projects to contribute on their docs.
 
 ## Languages
 | Language | Level |

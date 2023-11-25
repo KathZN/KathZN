@@ -12,10 +12,10 @@ Looking for open source projects to contribute on their docs.
 ## Languages
 | Language | Level |
 |----------|-------|
-| English | TOEFL |
+| English | C1 (TOEFL iBT 106) |
 | Spanish | Native |
 | Russian |  B1 |
-| Chinese |  A2 |
+| Chinese |  A2 (HSK3) |
 
 ## Other skills 
 - 📜 Historian (analyze & research)

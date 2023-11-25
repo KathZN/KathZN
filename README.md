@@ -22,7 +22,7 @@ Looking for open source projects to contribute on their documentation
 - 🖌 Loves to read and learn
 - 🌠 Wish to write & write - <a href="https://kathzamudio.substack.com/publish/home"> visit my Substrack</a>
 
-**Looking for a tech writer intern? Contact <a href="https://www.linkedin.com/in/kathia-haruka-zamudio-nakagawa-60364a278/"> me :)</a>**
+**Looking for a tech writer intern? Contact <a href="https://www.linkedin.com/in/kathia-h-zamudio-nakagawa/"> me :)</a>**
 
 
 

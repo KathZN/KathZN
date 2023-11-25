@@ -1,10 +1,30 @@
 # 👋 Hi, I’m Kathia 
 
-Junior technical writer - Markdown, VS Code, Jira (Scrum/Kanban) - Confluence, Obsidian, Git
+Junior technical writer & Obsidian fan ✨
 
-I’m currently learning JavaScript
+<img alt="Static Badge" src="https://img.shields.io/badge/Mardown-black"> <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-%20blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Jira-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Confluence-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-red">
+
+## I’m currently learning 
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Docusaurus-hsl">
 
 Looking for open source projects to contribute on their documentation
+
+## Languages
+| Language | Level |
+|----------|-------|
+| English | TOEFL |
+| Spanish | Native |
+| Russian |  B1 |
+| Chinese |  A2 |
+
+## Other skills 
+- 📜 Historian (analyze & research)
+- 🖌 Loves to read and learn
+- 🌠 Wish to write & write - <a href="https://kathzamudio.substack.com/publish/home"> visit my Substrack</a>
+
+**Looking for a tech writer intern? Contact <a href="https://www.linkedin.com/in/kathia-haruka-zamudio-nakagawa-60364a278/"> me :)</a>**
+
+
 
 
 
